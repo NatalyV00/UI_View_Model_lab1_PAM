@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyName</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="picture">Picture</string>
+    <string name="search">Search</string>
+    <string name="send_notification">Send notification</string>
+    <string name="view_contacts">View Contacts</string>
+    <string name="open_settings">Open settings</string>
+    <string name="front_camera" />
+    <string name="back_camera">Back Camera</string>
+    <string name="second_activity" />
+    <string name="back_main_activity" />
+    <string name="camera_activity_info" />
+</resources>
